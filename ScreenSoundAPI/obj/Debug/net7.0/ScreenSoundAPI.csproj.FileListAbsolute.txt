@@ -1,0 +1,15 @@
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/bin/Debug/net7.0/ScreenSoundAPI
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/bin/Debug/net7.0/ScreenSoundAPI.deps.json
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/bin/Debug/net7.0/ScreenSoundAPI.runtimeconfig.json
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/bin/Debug/net7.0/ScreenSoundAPI.dll
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/bin/Debug/net7.0/ScreenSoundAPI.pdb
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ScreenSoundAPI.csproj.AssemblyReference.cache
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ScreenSoundAPI.AssemblyInfoInputs.cache
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ScreenSoundAPI.AssemblyInfo.cs
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ScreenSoundAPI.csproj.CoreCompileInputs.cache
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ScreenSoundAPI.dll
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/refint/ScreenSoundAPI.dll
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ScreenSoundAPI.pdb
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ScreenSoundAPI.genruntimeconfig.cache
+/Users/viniciusrosa/Desktop/Alura/ScreenSoundAPI/ScreenSoundAPI/obj/Debug/net7.0/ref/ScreenSoundAPI.dll
